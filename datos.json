@@ -1,0 +1,33 @@
+{
+    "tipos":[
+        "Eventos",
+        "Retratos",
+        "Comercial"
+    ],
+    "categorias": [
+        {
+            "nombre":"Bodas",
+            "descripcion":"Destinos entrelazados convertidos en memorias",
+            "tipo":"Eventos"
+        },
+        {
+            "nombre": "15 Años",
+            "descripcion": "Sueños que perduran en recuerdos plasmados",
+            "tipo":"Eventos"
+        }
+    ],
+
+    "albumns":[
+        {
+            "nombre": "Boda Heiber Y Eli",
+            "calificacion": 4.5,
+            "fecha": "Hoy"
+        }
+
+        {
+            "nombre": "Quince Años",
+            "calificacion": 4.5,
+            "fecha": "Hoy"
+        }
+    ]
+}
